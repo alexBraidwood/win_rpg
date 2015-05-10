@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1431101366 source:c:\dev\win_rpg\main.cpp
+	<tchar.h>
+	<windows.h>
+	"game.h"
+
+1431104234 source:c:\dev\win_rpg\src\game.cpp
+	"game.h"
+	"inputcomponent.h"
+	"warrior.h"
+	<iostream>
+
+1431102244 c:\dev\win_rpg\src\game.h
+	<windows.h>
+	<vector>
+	"gameobject.h"
+
+1431104217 c:\dev\win_rpg\src\gameobject.h
+
+1431100279 source:c:\dev\win_rpg\src\attributes.cpp
+	"attributes.h"
+
+1431100283 c:\dev\win_rpg\src\attributes.h
+
+1431104004 source:c:\dev\win_rpg\src\character.cpp
+	"character.h"
+
+1431100883 c:\dev\win_rpg\src\character.h
+	"gameobject.h"
+	"attributes.h"
+
+1431101529 c:\dev\win_rpg\src\warrior.h
+	"character.h"
+
+1431104345 source:c:\dev\win_rpg\src\warrior.cpp
+	"warrior.h"
+	"inputcomponent.h"
+	<iostream>
+
+1431104310 c:\dev\win_rpg\src\inputcomponent.h
+	<windows.h>
+	<functional>
+	"gameobject.h"
+
+1431103796 source:c:\dev\win_rpg\src\inputcomponent.cpp
+	"inputcomponent.h"
+	<iostream>
+	"gameobject.h"
+
+1431089990 source:c:\dev\win_rpg\src\gameobject.cpp
+	"gameobject.h"
+
