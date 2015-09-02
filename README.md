@@ -1,2 +1,4 @@
 # WinAPI RPG
-Just some fiddling around with Winapi and responding to keyboard events.
+A project I started while on an airplane ride. 
+
+The OFFICIAL vacation game project.
